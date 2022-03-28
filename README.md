@@ -1,5 +1,7 @@
 # how2_fuck_the_GFW_PLUS
->*这是一个基于centos7系统搭建trojan-go协议梯子的指南*
+>*这是一个基于centos7系统搭建trojan-go协议梯子的指南*  
+> *项目地址：https://github.com/p4gefau1t/trojan-go*  
+> *项目文档地址：https://p4gefau1t.github.io/trojan-go/*  
 
 ## _trojan-go_
 >## 0. 准备工作

@@ -36,7 +36,7 @@ acme.sh --issue -d your_domain.com --standalone -k ec-256
 
 1.2.3. 创建证书存储目录并安装证书（注意，这一步必须，因为acme.sh似乎设定不能安装在原来的issue的文件夹下）
 mkdir /root/your_domain.com
-acme.sh --installcert -d your_domain.com --fullchainpath /root/your_domain.com/fullchain.crt --keypath /root/your_domain.com/privkey.key
+acme.sh --installcert -d your_domain.com --fullchainpath /root/your_domain.com/fullchain.crt --keypath /root/your_domain.com/privkey.key --ecc
 ```
 
 ## 2. 模块二：nginx  
